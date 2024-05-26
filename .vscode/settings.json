@@ -1,0 +1,14 @@
+{
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "off"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "off"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "off"
+    },
+    "accessibility.signals.positionHasError": {
+        "sound": "off"
+    }
+}
